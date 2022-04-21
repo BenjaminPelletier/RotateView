@@ -1,0 +1,2 @@
+numpy==1.21.3
+numpy-quaternion==2022.4.1
